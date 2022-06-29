@@ -1,1 +1,1 @@
-# smart-Door-lock-
+Verfication of ALU
